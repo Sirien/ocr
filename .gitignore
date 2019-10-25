@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.pth
+ocr
+ocr/*
+*tfevents*
